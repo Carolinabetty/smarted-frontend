@@ -1,0 +1,69 @@
+{
+  
+  "welcome": "Karibu SmartEd",
+  "student_home_intro": "Gundua kozi zako, wasiliana na washauri, shiriki kwenye jamii, na panua maarifa yako. Kila unachohitaji kiko hapa.",
+  "courses": "Kozi",
+  "mentorship": "Ushauri",
+  "community": "Jamii",
+  "home": "Nyumbani",
+  
+  "explore_courses": "Gundua Kozi",
+  "search_courses": "Tafuta kozi...",
+  "all": "Zote",
+  "in_progress": "Zinaendelea",
+  "recommended": "Mapendekezo kwa Ajili Yako",
+  "all_courses": "Kozi Zote",
+  "enroll_title": "Jisajili kwa {{course}}",
+  "duration": "🕒 Muda: Wiki 3",
+  "price": "💰 Bei: KES {{amount}}",
+  "pay_and_enroll": "Lipa na Jisajili",
+  
+  "mentorship_portal": "Lango la Ulezi",
+  "mentorship_intro": "Kutana na washauri waliopo, tazama hali yao, na omba ushauri wa kibinafsi.",
+  "mentor_resources": "Rasilimali za Mshauri",
+  "mentor_resources_desc": "Tazama nyenzo na rasilimali zilizoshirikiwa.",
+  "my_sessions": "Vipindi Vyangu",
+  "my_sessions_desc": "Fuatilia vipindi vya ushauri vilivyokubaliwa na ratiba.",
+  "live_session": "Kipindi Mubashara",
+  "live_session_desc": "Jiunge na vipindi mubashara kama mshauri yuko mtandaoni.",
+  "view_resources": "Tazama Rasilimali",
+  "view_sessions": "Tazama Vipindi",
+  "join_now": "Jiunge Sasa",
+  "online_now": "Mtandaoni sasa",
+  "offline": "Hajapo mtandaoni",
+  "status": "Hali",
+  "request_mentorship": "Omba Ushauri",
+  "already_requested": "Umeomba mshauri huyu tayari.",
+  "request_sent": "Ombi la ushauri limepelekwa!",
+  "request_failed": "Imeshindikana kutuma ombi.",
+  "login_required": "Tafadhali ingia ili kufikia ushauri.",
+
+
+  
+  "share_insight": "Shiriki wazo",
+  "write_thoughts": "Andika mawazo yako...",
+  "post": "Tuma",
+  "loading_posts": "Inapakia machapisho...",
+  "please_enter_caption": "Tafadhali andika kichwa.",
+  "must_be_logged_in": "Lazima uingie ili kuchapisha.",
+  "image_upload_failed": "Imeshindwa kupakia picha.",
+  "post_failed": "Imeshindwa kuchapisha.",
+  
+  "library_title": "📚 Maktaba ya SmartEd",
+  
+  "book_title": "Kichwa cha Kitabu",
+  "select_category": "Chagua Kategoria",
+  "uploading": "Inapakia...",
+  "donate": "Toa",
+  "all_categories": "Kategoria Zote",
+  "reset_filter": "Weka upya Kichujio",
+  "no_books": "Hakuna vitabu vilivyopatikana.",
+  "download": "📥 Pakua",
+  "fill_all_fields": "Tafadhali jaza sehemu zote.",
+  "must_login_to_donate": "Lazima uingie ili kutoa kitabu.",
+
+
+  "library": "Maktaba",
+  "donate_book": "Toa Kitabu",
+  "community_feed": "Mijadala ya Jamii"
+}

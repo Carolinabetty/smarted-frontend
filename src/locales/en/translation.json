@@ -1,0 +1,69 @@
+{
+  
+  "welcome": "Welcome to SmartEd",
+  "student_home_intro": "Explore your courses, connect with mentors, engage in the community, and grow your knowledge. Everything you need is right here at your fingertips.",
+  "courses": "Courses",
+  "mentorship": "Mentorship",
+  "community": "Community",
+  "home": "Home",
+  
+  "explore_courses": "Explore Courses",
+  "search_courses": "Search courses...",
+  "all": "All",
+  "in_progress": "In Progress",
+  "recommended": "Recommended for You",
+  "all_courses": "All Courses",
+  "enroll_title": "Enroll in {{course}}",
+  "duration": "🕒 Duration: 3 weeks",
+  "price": "💰 Price: KES {{amount}}",
+  "pay_and_enroll": "Pay & Enroll",
+  
+  "mentorship_portal": "Mentorship Portal",
+  "mentorship_intro": "Meet available mentors, view their status, and request personalized mentorship.",
+  "mentor_resources": "Mentor Resources",
+  "mentor_resources_desc": "View shared materials and resources.",
+  "my_sessions": "My Sessions",
+  "my_sessions_desc": "Track accepted mentorships and schedule.",
+  "live_session": "Live Session",
+  "live_session_desc": "Join live sessions if your mentor is online.",
+  "view_resources": "View Resources",
+  "view_sessions": "View Sessions",
+  "join_now": "Join Now",
+  "online_now": "Online now",
+  "offline": "Offline",
+  "status": "Status",
+  "request_mentorship": "Request Mentorship",
+  "already_requested": "You already requested this mentor.",
+  "request_sent": "Mentorship request sent!",
+  "request_failed": "Failed to send request.",
+  "login_required": "Please log in to access mentorship.",
+
+
+  
+  "library_title": "📚 SmartEd Library",
+  "donate_book": "Donate a Book",
+  "book_title": "Book Title",
+  "select_category": "Select Category",
+  "uploading": "Uploading...",
+  "donate": "Donate",
+  "all_categories": "All Categories",
+  "reset_filter": "Reset Filter",
+  "no_books": "No books available.",
+  "download": "📥 Download",
+  "fill_all_fields": "Please fill all fields.",
+  "must_login_to_donate": "You must be logged in to donate a book.",
+
+
+
+  "library": "Library",
+  
+  "community_feed": "Community Feed",
+  "share_insight": "Share an insight",
+  "write_thoughts": "Write your thoughts...",
+  "post": "Post",
+  "loading_posts": "Loading posts...",
+  "please_enter_caption": "Please enter a caption.",
+  "must_be_logged_in": "You must be logged in to post.",
+  "image_upload_failed": "Image upload failed.",
+  "post_failed": "Failed to post."
+}
